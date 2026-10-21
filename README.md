@@ -3,7 +3,14 @@
 [![GitHub release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/RayMorTwinkle/doubao-skills/releases)
 [![Skills Count](https://img.shields.io/badge/Skills-103%20Top--Level%20(131%20Total)-brightgreen.svg)](#-技能分类全景目录)
 [![Lark Ecosystem](https://img.shields.io/badge/Lark-17%20Integrated%20Skills-00D6B9.svg)](#1-飞书--lark-深度协同套件-17)
-[![License](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)
+
+> [!IMPORTANT]
+> ### ⚠️ 免责声明与项目说明（Disclaimer & Notices）
+> 1. **公开来源说明**：本项目收录的全部 Skills 技能规范文件，**主要从豆包云电脑（Doubao Cloud PC）的公开运行环境中提取**。此内容为**任何人正常访问与调用豆包云电脑均可直接获取的公开资料**。
+> 2. **仅供学习参考**：本项目仅用于个人学习研究、技术交流以及 AI Agent / Prompt 工程的架构参考，**严禁用于任何商业牟利或商业运营行为**。
+> 3. **免责声明**：作者与整理者仅作资料技术归档，不对内容的准确性、完整性、可用性或由此引发的任何风险承担任何责任，**本人不负任何责任**。
+> 4. **侵权联系删除**：技能内涉及之商标、产品名称及版权均归其原始权利人（北京字跳网络技术有限公司等）所有。**如有任何侵权问题，请随时通过 Issue 或邮件联系作者，确认后将第一时间配合删除相关内容**。
 
 > 本仓库完整收录了字节跳动旗下 **豆包（Doubao / 豆包办公 / 豆包专业版）** 与 **飞书（Lark）** AI 智能体生态中运行的 **103 个顶级生产级 Skill（包含 131 个 SKILL.md 技能定义）**。
 
@@ -252,6 +259,7 @@ cp -r doubao-skills/.skills/verifier-hub .skills/
 
 ## 📄 许可证与免责声明
 
-- 本项目技能描述与文档整理仅供学术研究、学习交流与技术探讨使用。
-- 遵循 [MIT License](LICENSE) 许可证。
-- 技能内涉及之商标（豆包、飞书、Lark、巨量引擎等）版权归北京字跳网络技术有限公司所有。
+- **开源许可证**：本项目采用 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE) 许可证，**仅限非商业性学习与技术交流使用**。
+- **资料来源**：本项目整理自豆包云电脑公开运行环境，为任何人调用豆包云电脑均可获取的公开参考信息。
+- **免责条款**：整理者不对本仓库任何内容的完整性、适用性及衍生后果负责，**本人不负任何法律或连带责任**。
+- **版权与侵权删除**：豆包、飞书、Lark、巨量引擎、Seedance、Seedream 等商标与资产版权归北京字跳网络技术有限公司所有。**若权利方认为内容不妥或存在侵权，请通过 GitHub Issue 联系，我们将立即核实并执行下架/删除**。
